@@ -1,0 +1,1 @@
+export { registerAuthPaths } from "./auth";
